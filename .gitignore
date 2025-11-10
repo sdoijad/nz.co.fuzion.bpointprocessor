@@ -1,0 +1,42 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings
+.buildpath
+*.sublime-project
+*.sublime-workspace
+
+# Composer
+/vendor/
+/composer.lock
+
+# CiviCRM
+/bin/
+*.log
+
+# Node
+node_modules/
+npm-debug.log
+
+# Testing
+/tests/reports/
+/tests/coverage/
+.phpunit.result.cache
+
+# Temporary
+*.tmp
+*.bak
+*~.php
