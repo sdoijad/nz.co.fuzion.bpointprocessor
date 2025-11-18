@@ -1,0 +1,54 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+Preamble
+
+The GNU Affero General Public License is a free, copyleft license for
+software and other kinds of works, specifically designed to ensure
+cooperation with the community in the case of network server software.
+
+The licenses for most software and other practical tools are designed
+to take away your freedom to share and change the software. By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.
+
+When we speak of free software, we are referring to freedom of use, not
+price. Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+this service if you wish), that you receive source code or can get it
+if you want it, that you can change the software and use pieces of it
+in new free programs; and that you are informed that you can do these
+things.
+
+For developers' protection, the GPL clearly explains that there is no
+warranty for this free software. For both users' and creators' sake,
+the GPL requires that modified versions be marked as changed, so that
+their problems will not be attributed erroneously to authors of
+previous versions.
+
+Some devices are designed to deny users access to install or run
+modified versions of the software inside them, although the manufacturer
+can do so. This is fundamentally incompatible with the aim of protecting
+users' freedom to change the software. The systematic pattern of such
+abuse occurs in the case of products most often used by corporations to
+limit users' freedom most. Therefore, this is the particular danger that
+motivates our version of the GPL for free software that runs on
+commonly used personal computers.
+
+The Affero GPL applies to network server software. When we spoke of
+protecting users' freedom to change the software, we referred to versions
+meant for them to run on their own machines. When a program's users
+interact with it remotely through a computer network, the version running
+on the server can be important for all users even though they do not
+control it directly. The GNU Affero General Public License takes account
+of this situation. When you modify covered software and make your
+modifications available to the public in some way (even if you don't
+distribute them), the covered software should make it easy for its users
+to get the source of your modifications.
+
+For details on the full license, see: https://www.gnu.org/licenses/agpl-3.0.txt
