@@ -23,7 +23,7 @@ return [
       'signature_label' => 'Merchant Number',
 
       // Payment class that handles the integration
-      'class_name' => 'Payment_BPoint',
+      'class_name' => 'BPoint',
 
       // Default URLs (can be overridden in processor config)
       'url_site_default' => 'https://www.bpoint.com.au',
